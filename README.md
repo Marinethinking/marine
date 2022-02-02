@@ -26,8 +26,6 @@ it is hard to know where you added or removed.
 
 ## Usage
 
-
-
 ```dart
     GridController gridController = GridController(pageFetcher: fetchList);
     PagedGrid(
@@ -40,4 +38,4 @@ it is hard to know where you added or removed.
         });
 ```
 
-
+![alt](https://github.com/Marinethinking/marine/doc/pagedGrid.gif)
