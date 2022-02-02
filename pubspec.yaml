@@ -1,6 +1,6 @@
 name: marine
-description: A new Flutter package project.
-version: 0.5.1
+description: Marine widgets.
+version: 0.5.1+2
 homepage: https://github.com/Marinethinking/marine
 
 environment:
