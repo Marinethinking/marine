@@ -1,6 +1,6 @@
 name: marine
 description: Marine widgets, animated grid view with pagination.
-version: 0.5.1+3
+version: 0.5.2
 homepage: https://github.com/Marinethinking/marine
 
 environment:

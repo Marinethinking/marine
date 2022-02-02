@@ -14,7 +14,7 @@ and the Flutter guide for
 
 This is an animated grid view with pagination.  Implemented by SliverGrid.
 If you need an animated list view please check in flutter.  
-Or if you need an animated list view with pagination you can easy to give your grid item a large with to make it a list.
+Or if you need an animated list view with pagination you can easily give your grid item a large with to make it a list.
 
 Flutter doesn't have an animated GridView, when you add or remove an element from a grid,
 it is hard to know where you added or removed.
@@ -29,6 +29,7 @@ it is hard to know where you added or removed.
 
 ```dart
     GridController gridController = GridController(pageFetcher: fetchList);
+    ...
     PagedGrid(
         maxCrossAxisExtent: 200,
         childAspectRatio: 1.8,
@@ -39,4 +40,6 @@ it is hard to know where you added or removed.
         });
 ```
 
-
+```dart
+    TextDivider(child: const Text('Divider'))
+```
