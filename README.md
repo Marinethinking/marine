@@ -10,6 +10,7 @@ For general information about developing packages, see the Dart guide for
 and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
+![Example](./doc/pagedGrid.gif)
 
 This is an animated grid view with pagination.  Implemented by SliverGrid.
 If you need an animated list view please check in flutter.  
@@ -38,4 +39,4 @@ it is hard to know where you added or removed.
         });
 ```
 
-![Example](./doc/pagedGrid.gif)
+
