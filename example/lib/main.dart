@@ -64,6 +64,9 @@ class _MyHomePageState extends State<MyHomePage> {
               child:
                   SizedBox(height: 150, child: Text("Paged grid view Example")),
             ),
+            SliverToBoxAdapter(
+              child: TextDivider(child: const Text('Paged grid view Example')),
+            ),
             pagedGrid,
           ],
         ),
