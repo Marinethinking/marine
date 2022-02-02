@@ -38,4 +38,4 @@ it is hard to know where you added or removed.
         });
 ```
 
-![alt](https://github.com/Marinethinking/marine/doc/pagedGrid.gif)
+![Example](./doc/pagedGrid.gif)
